@@ -1,0 +1,9 @@
+/SHOW Merlin
+/SAY Merlin I will do some magic.
+/SHOW Genie
+/MOVE Genie 300,500
+/MOVELEFT Merlin Genie
+/SAY Merlin Ala peanut butter sandwich!
+/PLAY Merlin Domagic2
+/HIDE Genie
+/SAY Merlin I did it
